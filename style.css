@@ -1,0 +1,19 @@
+body {
+    background: blue;
+}
+.character-card{
+    background: white;
+    padding: 5px;
+    margin: 10px;
+}
+.favorite{
+    border: solid 3px red;
+}
+.house, .patronus, .ancestry {
+    text-transform: capitalize;
+}
+.picSize {
+    padding: 5px;
+    margin: 10px;
+    height: 100px;
+}
