@@ -29,7 +29,7 @@ function dataFetch() {
       characterList = data;
     });
 }
-
+//Weeeeee Testing
 //Creates HTML elements to display character info. 
 function displayCharacter(character) {
   //console.log(character);
